@@ -68,3 +68,15 @@ Any of the models and methods used can be changed. We use:
 ## Citation
 
 If the code or paper is used, please cite the paper:
+
+```
+@misc{shapira2025measuringeffecttranscriptionnoise,
+      title={Measuring the Effect of Transcription Noise on Downstream Language Understanding Tasks}, 
+      author={Ori Shapira and Shlomo E. Chazan and Amir DN Cohen},
+      year={2025},
+      eprint={2502.13645},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.13645}, 
+}
+```
